@@ -92,11 +92,13 @@
 .img-footer {
   font-size: 30px;
   margin-right: 10px;
+  color: #927076;
 }
 
 .text-footer {
   text-align: center;
   font-size: 14px;
+  color: #927076;
 }
 
 .text-footer > p {
